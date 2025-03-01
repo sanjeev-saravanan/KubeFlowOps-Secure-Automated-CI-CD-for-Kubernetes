@@ -1,4 +1,4 @@
-# Real-Time DevOps Project | Deploy to Kubernetes Using Jenkins & ArgoCD | End-to-End CI/CD Pipeline 🚀
+# KubeFlowOps-Secure-Automated-CI-CD-for-Kubernetes 🚀
 
 This project demonstrates a **real-time DevOps workflow** for deploying applications to **Kubernetes (EKS)** using **Jenkins** for CI/CD automation and **ArgoCD** for GitOps-based continuous delivery. It covers the entire pipeline from code push to production deployment, including static code analysis, Docker image creation, and Kubernetes manifest deployment.
 
