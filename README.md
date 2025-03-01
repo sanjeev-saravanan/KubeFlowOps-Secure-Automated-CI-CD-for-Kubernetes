@@ -68,7 +68,7 @@ Contributions are welcome! If you'd like to improve this project, follow these s
 
 - One additional suggestion: Write down all the key points you’ve learned in a notepad first, and go through them multiple times to see if you can explain them clearly. This practice will help you sound confident and well-prepared during the interview.
 
-### For Improvement:
+### Potential Improvements for This Project:
 - **Observability and Monitoring**: If you’re familiar with tools like Prometheus, Grafana, or ELK stack, consider integrating them into this pipeline for better monitoring and observability.
 - **Learn from Experts**: Check out tutorials by **Abhishek Veeramalla** and **DevOps Shack** on YouTube for advanced insights and guidance.
 
